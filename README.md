@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yazdish
 - 👀 I’m interested in ART and SPORTS
 - 🌱 I’m currently learning Python
-- 💞️ 
+- 💞️ 404
 - 📫 How to reach me : yazdishouryabi@gmail.com
 
 <!---
